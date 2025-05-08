@@ -1,5 +1,5 @@
 # BREAST CANCER IMAGE SEGMENTATION USING CONTRAST METHOD APPROACH W/DEEPLABS_V3RESNET-50  
-## Created by Angel & Danny (Kean University)
+## By Angel & Danny (Kean University)
 
 
 ### About
