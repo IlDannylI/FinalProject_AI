@@ -14,9 +14,9 @@ This study focuses on using image segmentation to classify breast cancer images 
 
 ### References
 
-*https://dl.acm.org/doi/10.1016/j.compbiomed.2024.109391*
-*https://onlinelibrary.wiley.com/doi/10.1155/2024/9422083*
-*https://docs.pytorch.org/vision/main/models/generated/torchvision.models.segmentation.deeplabv3_resnet50.html*
+- *https://dl.acm.org/doi/10.1016/j.compbiomed.2024.109391*
+- *https://onlinelibrary.wiley.com/doi/10.1155/2024/9422083*
+- *https://docs.pytorch.org/vision/main/models/generated/torchvision.models.segmentation.deeplabv3_resnet50.html*
 
 
 
