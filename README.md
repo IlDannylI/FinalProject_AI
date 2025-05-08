@@ -12,6 +12,12 @@ This study focuses on using image segmentation to classify breast cancer images 
 
 **DeepLabv3 is a Deep Neural Network (DNN) architecture for Semantic Segmentation Tasks. It uses Atrous (Dilated) Convolutions to control the receptive field and feature map resolutions without increasing the total number of parameters. Another main attribute is something called Atrous Spatial Pyramid Pooling which effectively extracts multi-scale features that contain useful information for segmentation. In general, the network is able to capture dense feature maps with rich long-range information that can be used to accurately segment images.**
 
+### References
+
+*https://dl.acm.org/doi/10.1016/j.compbiomed.2024.109391*
+*https://onlinelibrary.wiley.com/doi/10.1155/2024/9422083*
+*https://docs.pytorch.org/vision/main/models/generated/torchvision.models.segmentation.deeplabv3_resnet50.html*
+
 
 
 
